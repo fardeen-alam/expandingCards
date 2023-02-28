@@ -12,6 +12,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  background-image: linear-gradient(to top right, #656464, #3a3a3a);
 }
 
 .container{
